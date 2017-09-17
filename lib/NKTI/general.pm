@@ -22,7 +22,7 @@ our @EXPORT = qw(cetak cetak_r cetak_pre);
 
 # Define Version :
 # ---------------------------------------------------------------- 
-our $VERSION = '0.14';
+our $VERSION = '0.15';
 
 # Create Subroutine for Get OS Server Information :
 # ------------------------------------------------------------------------

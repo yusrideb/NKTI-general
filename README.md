@@ -1,4 +1,4 @@
-# Module NKTI::general version 0.14
+# Module NKTI::general version 0.15
 
 The Part of Prototype CellBIS Weh Framework.
 
@@ -34,7 +34,6 @@ However, if you install this module from source you must install following depen
         Data::Dumper LWP::UserAgent \
         HTTP::Request::Common CGI \
         DateTime HTTP::BrowserDetect
-
 
 ## COPYRIGHT AND LICENCE
 
