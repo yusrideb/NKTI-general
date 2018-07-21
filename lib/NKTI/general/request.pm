@@ -8,10 +8,6 @@ use HTTP::Request::Common;
 use CGI;
 use JSON;
 
-# Define version :
-# ----------------------------------------------------------------
-our $VERSION = '0.15';
-
 # Subroutine for POST Request :
 # ------------------------------------------------------------------------
 =head1 SUBROUTINE post()
