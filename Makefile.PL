@@ -16,8 +16,8 @@ WriteMakefile(
         'DateTime' => 0,
         'HTTP::BrowserDetect' => 0,
     },
-    MIN_PERL_VERSION => '5.012000',
-    ABSTRACT => 'The Part of CellBash The Simple Web Framework',
+    MIN_PERL_VERSION => '5.010001',
+    ABSTRACT => '[DEPRECATED]',
     AUTHOR            => 'Achmad Yusri Afandi <yusrideb@cpan.org>',
     LICENSE           => 'perl_5',
     #Value must be from legacy list of licenses here
